@@ -1,0 +1,26 @@
+Jordan Rivers
+jordan.rivers@example.com | +1-555-0100 | San Francisco, CA | linkedin.com/in/jordanrivers
+
+SUMMARY
+Product manager with 5 years of experience building consumer growth products.
+
+EXPERIENCE
+
+Product Manager, Acme Fintech (Jan 2022 - Present)
+- Owned the onboarding funnel redesign and ran A/B experiments that improved activation rate by 18%.
+- Led a cross-functional team of 6 engineers and 2 designers to ship a new referral program.
+- Built and shipped a fraud-detection rules engine used by the risk team to flag suspicious transactions.
+
+Associate Product Manager, Bright Retail Co (Jun 2019 - Dec 2021)
+- Launched a personalized recommendation widget that increased average order value by 9%.
+- Partnered with data science to build a churn-prediction dashboard used by 40 customer success reps.
+- Managed the product backlog for the mobile checkout team and ran weekly sprint planning.
+
+SKILLS
+SQL, Product Analytics, A/B Testing, Figma, Jira, Stakeholder Management, Roadmapping
+
+EDUCATION
+B.S. in Computer Science, State University (2015 - 2019)
+
+CERTIFICATIONS
+Certified Scrum Product Owner (CSPO), Scrum Alliance, 2020

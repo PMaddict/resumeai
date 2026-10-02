@@ -1,0 +1,28 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Node / frontend
+app/frontend/node_modules/
+app/backend/static/
+
+# Your personal data -- never commit this.
+source_resumes/originals/*
+source_resumes/processed/*
+evidence/*.json
+jobs/incoming/*
+jobs/processed/*
+jobs/jobs_index.json
+outputs/*
+logs/*.log
+logs/*.out
+!source_resumes/originals/.gitkeep
+!source_resumes/processed/.gitkeep
+!jobs/incoming/.gitkeep
+!jobs/processed/.gitkeep
+!outputs/.gitkeep
+!logs/.gitkeep
+
+.DS_Store

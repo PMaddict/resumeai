@@ -1,0 +1,21 @@
+{
+  "llm": {
+    "provider": "ollama",
+    "host": "http://localhost:11434",
+    "model": "llama3.1:8b",
+    "temperature": 0.1,
+    "request_timeout_seconds": 180
+  },
+  "server": {
+    "host": "127.0.0.1",
+    "port": 8000
+  },
+  "resume": {
+    "target_min_pages": 1,
+    "target_max_pages": 2,
+    "max_bullets_per_role": 6
+  },
+  "validation": {
+    "fail_on_unsupported_claim": true
+  }
+}
